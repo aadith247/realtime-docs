@@ -33,3 +33,6 @@ A real-time collaborative text editor like Google Docs, built from scratch with 
 ---
 
 ## Project Structure
+![Uploading Screenshot 2026-04-03 at 6.24.17 PM.png…]()
+
+
