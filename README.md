@@ -33,6 +33,7 @@ A real-time collaborative text editor like Google Docs, built from scratch with 
 ---
 
 ## Project Structure
-![Uploading Screenshot 2026-04-03 at 6.24.17 PM.png…]()
+
+<img width="2142" height="1252" alt="Screenshot 2026-04-03 at 6 24 17 PM" src="https://github.com/user-attachments/assets/53c4c5d4-0b1f-4b9c-aaf7-002546078ee7" />
 
 
